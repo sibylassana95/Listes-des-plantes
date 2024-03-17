@@ -31,26 +31,30 @@
 <p class="text-white">Nombre total de plantes: {{ plantes|length }}</p>
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 py-8">
   {% for plante in plantes %}
-  <div>
+  <div class="card">
     <img
-      src="{{ plante.image}}"
-      alt="Drapeau de {{ pay.name }}"
-      class="w-full mb-4"
-      style="width: 80%; height: 150px"
+      src="{{ plante.image }}"
+      alt=" {{ plante.name }}"
+      class="card-img-top"
+      style="width: 500px; height: 300px"
     />
-
-    <h1 class="text-2xl text-white font-bold">{{ pay.name }}</h1>
-    <ul class="list-disc list-inside mt-4">
-      <li class="text-white">
-        <strong>Nom:</strong>
-        <span style="margin-left: 10px">{{ plante.name }}</span>
-      </li>
-      <li class="text-white">
-        <strong>Description:</strong>
-        <span style="margin-left: 10px">{{ plante.description}}</span>
-      </li>
-    </ul>
+    <div class="card-body">
+      <h1 class="card-title text-2xl text-white font-bold">
+        {{ plante.name }}
+      </h1>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item bg-transparent text-white border-0">
+          <strong>Nom:</strong>
+          <span class="ml-2">{{ plante.name }}</span>
+        </li>
+        <li class="list-group-item bg-transparent text-white border-0">
+          <strong>Description:</strong>
+          <span class="ml-2">{{ plante.description|truncatechars:100 }}</span>
+        </li>
+      </ul>
+    </div>
   </div>
+
   {% if forloop.counter|divisibleby:4 %}
 </div>
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 py-8">
