@@ -14,16 +14,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Rispe_wei%C3%9Fer_Bl%C3%BCten.JPG/240px-Rispe_wei%C3%9Fer_Bl%C3%BCten.JPG",
     "name": "Acacia"
   },
-  {
-    "description": "Apium nodiflorum, le Faux cresson de fontaine ou Ache nodiflore, est une plante vivace hémicryptophytique, pluri-annuelle, de la famille des Apiaceae.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Helosciadium_nodiflorum_%E2%80%94_Flora_Batava_%E2%80%94_Volume_v16.jpg/243px-Helosciadium_nodiflorum_%E2%80%94_Flora_Batava_%E2%80%94_Volume_v16.jpg",
-    "name": "Ache faux cresson"
-  },
-  {
-    "description": "Apium nodiflorum, le Faux cresson de fontaine ou Ache nodiflore, est une plante vivace hémicryptophytique, pluri-annuelle, de la famille des Apiaceae.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Helosciadium_nodiflorum_%E2%80%94_Flora_Batava_%E2%80%94_Volume_v16.jpg/243px-Helosciadium_nodiflorum_%E2%80%94_Flora_Batava_%E2%80%94_Volume_v16.jpg",
-    "name": "Ache noueuse"
-  },
+
   {
     "description": "L'Achillée herbe trouée ou Achillée à feuilles simples est une espèce de plantes de la famille des Asteracées.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Achillea_erba-rotta_%28plant%29.jpg/240px-Achillea_erba-rotta_%28plant%29.jpg",
@@ -230,11 +221,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Androsace_ciliata.jpg/320px-Androsace_ciliata.jpg",
     "name": "Androsace ciliée"
   },
-  {
-    "description": "L'Androsace de Vital aussi appelée androsace de Vitaliano, grégorie jaune, primevère dorée, est une plante herbacée vivace de la famille des Primulacées des Alpes et des Pyrénées.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Androsace_vitaliana.jpg/320px-Androsace_vitaliana.jpg",
-    "name": "Androsace de Vital"
-  },
+
   {
     "description": "L'Androsace de Vital aussi appelée androsace de Vitaliano, grégorie jaune, primevère dorée, est une plante herbacée vivace de la famille des Primulacées des Alpes et des Pyrénées.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Androsace_vitaliana.jpg/320px-Androsace_vitaliana.jpg",
@@ -245,16 +232,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Anemone_narcissifolia.jpg/320px-Anemone_narcissifolia.jpg",
     "name": "Anémone à fleurs de narcisse"
   },
-  {
-    "description": "L'Anémone des Alpes ou Pulsatille des Alpes est une plante herbacée vivace de la famille des Renonculacées.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Pulsatilla_alba_Rax.jpg/320px-Pulsatilla_alba_Rax.jpg",
-    "name": "Anémone blanche"
-  },
-  {
-    "description": "L'Anémone des Alpes ou Pulsatille des Alpes est une plante herbacée vivace de la famille des Renonculacées.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Pulsatilla_alba_Rax.jpg/320px-Pulsatilla_alba_Rax.jpg",
-    "name": "Anémone des Alpes"
-  },
+
   {
     "description": "L'Anémone des jardins (Anemone hortensis L.) est une plante herbacée vivace de la famille des Ranunculaceae.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Anemone_hortensis_grande_corniche.JPG/320px-Anemone_hortensis_grande_corniche.JPG",
@@ -405,16 +383,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Illustration_Arum_maculatum1.jpg/217px-Illustration_Arum_maculatum1.jpg",
     "name": "Arum tacheté"
   },
-  {
-    "description": "La barbe-de-bouc ou reine-des-bois, est une espèce de grande plante vivace à rhizome pouvant atteindre un mètre de haut. Elle est aussi parfois appelée barbe-de-chèvre et plus rarement aronce dioïque.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aruncus-dioicus.JPG/320px-Aruncus-dioicus.JPG",
-    "name": "Aruncus sylvester"
-  },
-  {
-    "description": "La barbe-de-bouc ou reine-des-bois, est une espèce de grande plante vivace à rhizome pouvant atteindre un mètre de haut. Elle est aussi parfois appelée barbe-de-chèvre et plus rarement aronce dioïque.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aruncus-dioicus.JPG/320px-Aruncus-dioicus.JPG",
-    "name": "Aruncus vulgaris"
-  },
+
   {
     "description": "L’Asclépiade de Syrie ou Herbe à la ouate, parfois appelée Herbe aux perruches, est une plante herbacée vivace de la famille des Asclépiadacées.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Asclepias_syriaca_prg_2.jpg/320px-Asclepias_syriaca_prg_2.jpg",
@@ -590,11 +559,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Filipendula_ulmaria_-_angervaks.jpg/213px-Filipendula_ulmaria_-_angervaks.jpg",
     "name": "Barbe de chèvre"
   },
-  {
-    "description": "La barbe-de-bouc ou reine-des-bois, est une espèce de grande plante vivace à rhizome pouvant atteindre un mètre de haut. Elle est aussi parfois appelée barbe-de-chèvre et plus rarement aronce dioïque.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aruncus-dioicus.JPG/320px-Aruncus-dioicus.JPG",
-    "name": "Barbe du bon Dieu"
-  },
+
   {
     "description": "La bardanette, bardanette épineuse, bardanette hérissée ou encore le faux-myosotis, est une plante rudérale et messicole de la famille des Boraginaceae.ÉtymologieBardanette : petite bardane.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Lappula_squarrosa_Sturm6.jpg/208px-Lappula_squarrosa_Sturm6.jpg",
