@@ -659,11 +659,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nordens_flora_007_Bl%C3%A5klint.jpg/226px-Nordens_flora_007_Bl%C3%A5klint.jpg",
     "name": "Bleuet des champs"
   },
-  {
-    "description": "La Centaurée des montagnes, Bleuet des montagnes, ou le Bleuet vivace (Centaurea montana L.) est une plante herbacée vivace de la famille des Astéracées. La plante est parfois appelée Barbeau des montagnes, Bleuet de montagne, Jacée de montagne ou Jacée des montagnes.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Centaurea_montana_jfg2.jpg/240px-Centaurea_montana_jfg2.jpg",
-    "name": "Bleuet des montagnes"
-  },
 
   {
     "description": "La Myrtille (Vaccinium myrtillus) est un sous-arbrisseau de la famille des Ericacées qui produit des fruits également appelés myrtilles, appartenant au groupe des airelles.",
@@ -1025,11 +1020,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nordens_flora_007_Bl%C3%A5klint.jpg/226px-Nordens_flora_007_Bl%C3%A5klint.jpg",
     "name": "Centaurea cyanus"
   },
-  {
-    "description": "La Centaurée des montagnes, Bleuet des montagnes, ou le Bleuet vivace (Centaurea montana L.) est une plante herbacée vivace de la famille des Astéracées. La plante est parfois appelée Barbeau des montagnes, Bleuet de montagne, Jacée de montagne ou Jacée des montagnes.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Centaurea_montana_jfg2.jpg/240px-Centaurea_montana_jfg2.jpg",
-    "name": "Centaurea montana"
-  },
+
   {
     "description": "Centaurea pectinata, la Centaurée pectinée, est une plante herbacée de la famille des Astéracées.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Centaurea_pectinata_%28Arago%29.jpg/320px-Centaurea_pectinata_%28Arago%29.jpg",
