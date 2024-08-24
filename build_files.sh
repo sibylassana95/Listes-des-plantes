@@ -7,7 +7,6 @@ python3.9 -m venv venv
 source venv/bin/activate
 pip install --upgrade setuptools
 # install all deps in the venv
-pip install django
 pip install -r requirement.txt
 pip install django-cors-headers
 pip install whitenoise
