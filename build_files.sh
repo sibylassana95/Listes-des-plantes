@@ -11,6 +11,8 @@ pip install django
 pip install -r requirement.txt
 pip install django-cors-headers
 # collect static files using the Python interpreter from venv
+python3.9 manage.py migrate 
+python3.9 manage.py makemigrations
 python3.9 manage.py collectstatic 
 
 echo "BUILD END"
