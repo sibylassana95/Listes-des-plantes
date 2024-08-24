@@ -172,11 +172,6 @@
     "name": "Alysson à calice persistant"
   },
   {
-    "description": "L'Alysson des montagnes ou Passerage des montagnes est une espèce de plantes à fleurs vivaces du genre Alyssum et de la famille des Brassicacées.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Alyssum_montanum_subsp._montanum_sl1.jpg/320px-Alyssum_montanum_subsp._montanum_sl1.jpg",
-    "name": "Alyssum arenarium"
-  },
-  {
     "description": "Alyssum alyssoides est une espèce de plante à fleurs de la famille des brassicacées connue sous plusieurs noms communs comme en français Alysson à calices persistants, Passerage faux alysson, Passerage à calices persistants. Elle est originaire d'Eurasie, mais a été introduite dans de nombreuses régions tempérées comme plante ornementale ; elle est parfois considérée comme une mauvaise herbe.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Alyssum_allyssoides_eF.jpg/320px-Alyssum_allyssoides_eF.jpg",
     "name": "Alyssum calycinum"
@@ -253,11 +248,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Argyranthemum-frutescens.jpg/240px-Argyranthemum-frutescens.jpg",
     "name": "Anthémis des Canaries"
   },
-  {
-    "description": "Argyranthemum frutescens ou chrysanthème frutescent ou marguerite de Paris est une espèce de plantes de la famille des Asteraceae.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Argyranthemum-frutescens.jpg/240px-Argyranthemum-frutescens.jpg",
-    "name": "Anthemis frutescens"
-  },
+  
   {
     "description": "La Phalangère ramifiée, également appelée Anthéricum ramifié ou Phalangium ramifié, est une plante herbacée du genre Anthericum et de la famille des Liliacées dans la classification classique et de la famille des Asparagacées dans la classification phylogénétique.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Anthericum_ramosum_Sturm31.jpg/212px-Anthericum_ramosum_Sturm31.jpg",
@@ -273,11 +264,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Anthyllis_barba_jovis4.JPG/320px-Anthyllis_barba_jovis4.JPG",
     "name": "Anthyllide Barbe de Jupiter"
   },
-  {
-    "description": "L’Arabette des dames ou Arabette de Thalius est une espèce de plantes appartenant à la famille des Brassicacées. Elle est souvent considérée comme une « mauvaise herbe » poussant au bord des routes. Cette petite plante annuelle, originaire d'Europe, d'Asie et du nord-ouest de l'Afrique, a un cycle de vie rapide, elle est résistante et peut s'autoféconder. A. thaliana a un génome relativement petit d'environ 135 paires de mégabase (Mbp). Ces qualités en ont fait depuis 1998 un organisme modèle de référence, pour la recherche aussi bien biologique que génétique.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Arabidopsis_thaliana.jpg/231px-Arabidopsis_thaliana.jpg",
-    "name": "Arabette de thalius"
-  },
+ 
   {
     "description": "L’Arabette des dames ou Arabette de Thalius est une espèce de plantes appartenant à la famille des Brassicacées. Elle est souvent considérée comme une « mauvaise herbe » poussant au bord des routes. Cette petite plante annuelle, originaire d'Europe, d'Asie et du nord-ouest de l'Afrique, a un cycle de vie rapide, elle est résistante et peut s'autoféconder. A. thaliana a un génome relativement petit d'environ 135 paires de mégabase (Mbp). Ces qualités en ont fait depuis 1998 un organisme modèle de référence, pour la recherche aussi bien biologique que génétique.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Arabidopsis_thaliana.jpg/231px-Arabidopsis_thaliana.jpg",
@@ -404,11 +391,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Asperula_cynanchica_080608a.jpg/320px-Asperula_cynanchica_080608a.jpg",
     "name": "Aspérule capillaire"
   },
-  {
-    "description": "Asperula cynanchica, l'aspérule à l'esquinancie, herbe à l'esquinancie ou aspérule des sables est une espèce de plante vivace de la famille des Rubiaceae. Elle pousse dans les dunes ou dans des prairies au sol calcaire. Les fleurs sont petites et peuvent être soit roses soit blanches. Elle est originaire d'une grande partie de l'Europe.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Asperula_cynanchica_080608a.jpg/320px-Asperula_cynanchica_080608a.jpg",
-    "name": "Aspérule des chiens"
-  },
+  
   {
     "description": "L'aspérule hérissée est une espèce de plante herbacée de la famille des Rubiaceae.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Asperula_hirta_2.jpg/320px-Asperula_hirta_2.jpg",
@@ -449,11 +432,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Puccinellia_maritima.jpeg/320px-Puccinellia_maritima.jpeg",
     "name": "Atropis maritime"
   },
-  {
-    "description": "L'Aubépine monogyne, aussi appelée Aubépine à un style, est une plante du genre Crataegus et de la famille des Rosaceae.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Crataegus-monogyna.JPG/320px-Crataegus-monogyna.JPG",
-    "name": "Aubépine"
-  },
+
   {
     "description": "L'Aubépine lisse, Aubépine à deux styles ou Aubépine épineuse est une plante du genre Crataegus appartenant à la famille des Rosaceae.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Illustration_Crataegus_laevigata1.jpg/208px-Illustration_Crataegus_laevigata1.jpg",
@@ -488,11 +467,6 @@
     "description": "L’aulne glutineux, l’aulne noir, l’aulne poisseux, est un arbre feuillu de la famille des bétulacées, très présent dans la flore indigène de l'Europe. Il est parfois appelé vergne ou verne.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Klibbal2.jpg/248px-Klibbal2.jpg",
     "name": "Aulne glutineux"
-  },
-  {
-    "description": "Arrhenatherum elatius, est une espèce de plantes monocotylédones de la famille des Poaceae, sous-famille des Pooideae, originaire des régions tempérées d'Eurasie et d'Afrique du Nord.\nCe sont des plantes herbacées vivaces, cespiteuses, aux tiges dressées pouvant atteindre 150 cm de long, et aux inflorescences en panicules ouvertes. Elle est aussi parfois appelée « fenasse » mais ce nom sert aussi à désigner d'autres plantes fourragères comme la fétuque élevée.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Glanshaver_plant_Arrhenatherum_elatius.jpg/240px-Glanshaver_plant_Arrhenatherum_elatius.jpg",
-    "name": "Avena elatior"
   },
   {
     "description": "Arrhenatherum elatius, est une espèce de plantes monocotylédones de la famille des Poaceae, sous-famille des Pooideae, originaire des régions tempérées d'Eurasie et d'Afrique du Nord.\nCe sont des plantes herbacées vivaces, cespiteuses, aux tiges dressées pouvant atteindre 150 cm de long, et aux inflorescences en panicules ouvertes. Elle est aussi parfois appelée « fenasse » mais ce nom sert aussi à désigner d'autres plantes fourragères comme la fétuque élevée.",
@@ -700,11 +674,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Illustration_Heracleum_sphondylium0.jpg/202px-Illustration_Heracleum_sphondylium0.jpg",
     "name": "Branc-ursine"
   },
-  {
-    "description": "La Callune est une espèce de chaméphytes ou nanophanérophytes sempervirents et le seul représentant du genre Calluna. C'est la fleur nationale de la Norvège.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Calluna_vulgaris_1.jpg/320px-Calluna_vulgaris_1.jpg",
-    "name": "Brande"
-  },
+  
   {
     "description": "La Myrtille (Vaccinium myrtillus) est un sous-arbrisseau de la famille des Ericacées qui produit des fruits également appelés myrtilles, appartenant au groupe des airelles.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Illustration_Vaccinium_myrrtillus0.jpg/195px-Illustration_Vaccinium_myrrtillus0.jpg",
@@ -730,16 +700,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Calluna_vulgaris_1.jpg/320px-Calluna_vulgaris_1.jpg",
     "name": "Bruyère commune"
   },
-  {
-    "description": "La Bruyère carnée, Bruyère couleur de chair, Bruyère des neiges ou Bruyère des Alpes est une bruyère des montagnes d'Europe centrale et méridionale.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Erica_carnea0.jpg/320px-Erica_carnea0.jpg",
-    "name": "Bruyère couleur de chair"
-  },
-  {
-    "description": "La Bruyère carnée, Bruyère couleur de chair, Bruyère des neiges ou Bruyère des Alpes est une bruyère des montagnes d'Europe centrale et méridionale.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Erica_carnea0.jpg/320px-Erica_carnea0.jpg",
-    "name": "Bruyère des neiges"
-  },
+ 
   {
     "description": "La Bruyère carnée, Bruyère couleur de chair, Bruyère des neiges ou Bruyère des Alpes est une bruyère des montagnes d'Europe centrale et méridionale.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Erica_carnea0.jpg/320px-Erica_carnea0.jpg",
@@ -760,21 +721,13 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/59_Bryonia_alba.jpg/212px-59_Bryonia_alba.jpg",
     "name": "Bryone noire"
   },
-  {
-    "description": "La Bugle Petit Pin, Ajuga chamaepitys est une espèce herbacée annuelle à bisannuelle de la famille des Lamiaceae d'origine et de répartition méditerranéenne. Cette espèce de plantes porte également les noms communs d'Ive ou d'Ivette, ce qui la rend connue des cruciverbistes. Le nom d'Ive provient de la forme féminine d'if, et le nom de Petit Pin vient du fait de la forte odeur résineuse dégagée par la plante.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ajuga_chamaepytis.JPG/320px-Ajuga_chamaepytis.JPG",
-    "name": "Bugle jaune"
-  },
+  
   {
     "description": "La Bugle Petit Pin, Ajuga chamaepitys est une espèce herbacée annuelle à bisannuelle de la famille des Lamiaceae d'origine et de répartition méditerranéenne. Cette espèce de plantes porte également les noms communs d'Ive ou d'Ivette, ce qui la rend connue des cruciverbistes. Le nom d'Ive provient de la forme féminine d'if, et le nom de Petit Pin vient du fait de la forte odeur résineuse dégagée par la plante.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ajuga_chamaepytis.JPG/320px-Ajuga_chamaepytis.JPG",
     "name": "Bugle petit-pin"
   },
-  {
-    "description": "Ononis natrix, la Bugrane jaune, est une plante vivace de la famille des Fabacées et du genre Ononis.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Oononis_natrix.jpg/240px-Oononis_natrix.jpg",
-    "name": "Bugrane"
-  },
+  
   {
     "description": "Ononis fruticosa, la Bugrane buissonnante, est une plante ligneuse de la famille des Fabacées.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/LS_Ononis_Fruticosa.jpg/211px-LS_Ononis_Fruticosa.jpg",
@@ -785,21 +738,13 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Illustration_Buxus_sempervirens1_cleaned.jpg/196px-Illustration_Buxus_sempervirens1_cleaned.jpg",
     "name": "Buis"
   },
-  {
-    "description": "Bupleurum stellatum, le Buplèvre étoilé, est une espèce de plantes herbacées du genre des buplèvres et de la famille des apiacées.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bupleurum_ranunculoides_001.JPG/320px-Bupleurum_ranunculoides_001.JPG",
-    "name": "Buplèvre étoilé"
-  },
+  
   {
     "description": "Arctostaphyle raisin-d'ours, aussi connu sous les noms de raisin-d'ours commun, Raisin d'ours ou Busserole est une espèce de sous-arbrisseau de la famille des Éricacées répandue en région circumpolaire. Souvent en forme de coussins, il a des feuilles persistantes, des petites fleurs en grelot blanches ou roses et des baies rouges à maturité.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arctostaphylos_uva-ursi_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-013.jpg/255px-Arctostaphylos_uva-ursi_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-013.jpg",
     "name": "Busserole"
   },
-  {
-    "description": "Le Jonc fleuri encore appelé Butome à ombelle au Canada ou Butome en ombelle en Europe est une espèce de plantes aquatiques herbacées vivaces de la famille des Butomacées.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Butomus_umbellatus_-_harilik_luigelill_Keilas.jpg/213px-Butomus_umbellatus_-_harilik_luigelill_Keilas.jpg",
-    "name": "Butome"
-  },
+  
   {
     "description": "Le Jonc fleuri encore appelé Butome à ombelle au Canada ou Butome en ombelle en Europe est une espèce de plantes aquatiques herbacées vivaces de la famille des Butomacées.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Butomus_umbellatus_-_harilik_luigelill_Keilas.jpg/213px-Butomus_umbellatus_-_harilik_luigelill_Keilas.jpg",
@@ -810,21 +755,13 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Physalis_alkekengi_France.jpg/240px-Physalis_alkekengi_France.jpg",
     "name": "Cage d'amour"
   },
-  {
-    "description": "Clinopodium vulgare, le Clinopode commun est une plante herbacée vivace de la famille des Lamiaceae et du genre Clinopodium.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Clinopodium_vulgare01.jpg/240px-Clinopodium_vulgare01.jpg",
-    "name": "Calament clinopode"
-  },
+  
   {
     "description": "Clinopodium menthifolium est une espèce de plantes de la famille des Lamiaceae.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Clinopodium_menthifolium_sl7.jpg/240px-Clinopodium_menthifolium_sl7.jpg",
     "name": "Calament des bois"
   },
-  {
-    "description": "Clinopodium vulgare, le Clinopode commun est une plante herbacée vivace de la famille des Lamiaceae et du genre Clinopodium.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Clinopodium_vulgare01.jpg/240px-Clinopodium_vulgare01.jpg",
-    "name": "Calament vulgaire"
-  },
+ 
   {
     "description": "Clinopodium vulgare, le Clinopode commun est une plante herbacée vivace de la famille des Lamiaceae et du genre Clinopodium.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Clinopodium_vulgare01.jpg/240px-Clinopodium_vulgare01.jpg",
@@ -840,61 +777,26 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Calicotome_spinosa.jpg/320px-Calicotome_spinosa.jpg",
     "name": "Calicotome épineux"
   },
-  {
-    "description": "La Callune est une espèce de chaméphytes ou nanophanérophytes sempervirents et le seul représentant du genre Calluna. C'est la fleur nationale de la Norvège.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Calluna_vulgaris_1.jpg/320px-Calluna_vulgaris_1.jpg",
-    "name": "Callune"
-  },
-  {
-    "description": "La Callune est une espèce de chaméphytes ou nanophanérophytes sempervirents et le seul représentant du genre Calluna. C'est la fleur nationale de la Norvège.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Calluna_vulgaris_1.jpg/320px-Calluna_vulgaris_1.jpg",
-    "name": "Callune fausse-bruyère"
-  },
-  {
-    "description": "La Callune est une espèce de chaméphytes ou nanophanérophytes sempervirents et le seul représentant du genre Calluna. C'est la fleur nationale de la Norvège.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Calluna_vulgaris_1.jpg/320px-Calluna_vulgaris_1.jpg",
-    "name": "Callune vulgaire"
-  },
+ 
   {
     "description": "La Camarine noire est un sous-arbrisseau persistant, de la famille des Éricacées. La camarine noire est présente dans les zones tempérées et froides de l’hémisphère boréal.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Empetrum_nigrum_a2.jpg/320px-Empetrum_nigrum_a2.jpg",
     "name": "Camarine"
   },
-  {
-    "description": "Le Chèvrefeuille des haies ou Chèvrefeuille à balais est une espèce d'arbustes de la famille des Caprifoliacées. Il est parfois appelé Camérisier des haies, Camerisier à balais, Chamérisier, Chèvrefeuille à fleurs blanc-jaunâtre ou Sorian.[réf. nécessaire]",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Lonicera_xylosteum_flowers.jpg/320px-Lonicera_xylosteum_flowers.jpg",
-    "name": "Camérisier"
-  },
-  {
-    "description": "Le Chèvrefeuille des haies ou Chèvrefeuille à balais est une espèce d'arbustes de la famille des Caprifoliacées. Il est parfois appelé Camérisier des haies, Camerisier à balais, Chamérisier, Chèvrefeuille à fleurs blanc-jaunâtre ou Sorian.[réf. nécessaire]",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Lonicera_xylosteum_flowers.jpg/320px-Lonicera_xylosteum_flowers.jpg",
-    "name": "Camerisier à balai"
-  },
+  
   {
     "description": "Lonicera pyrenaica, le camérisier des Pyrénées ou chèvrefeuille des Pyrénées est un chèvrefeuille endémique des Pyrénées et des montagnes du nord de l'Espagne.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lonicera_pyrenaica.jpg/240px-Lonicera_pyrenaica.jpg",
     "name": "Camérisier des Pyrénées"
   },
-  {
-    "description": "La camomille sauvage, Matricaire camomille, Petite Camomille, est une plante herbacée annuelle de la famille des Astéracées et du genre Matricaria.\nElle est parfois appelée Camomille allemande ou Camomille vraie ou Matricaire tronquée.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Matricaria_recutita_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-091.jpg/241px-Matricaria_recutita_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-091.jpg",
-    "name": "Camomille allemande"
-  },
-  {
-    "description": "La camomille sauvage, Matricaire camomille, Petite Camomille, est une plante herbacée annuelle de la famille des Astéracées et du genre Matricaria.\nElle est parfois appelée Camomille allemande ou Camomille vraie ou Matricaire tronquée.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Matricaria_recutita_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-091.jpg/241px-Matricaria_recutita_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-091.jpg",
-    "name": "Camomille matricaire"
-  },
+  
+ 
   {
     "description": "La Matricaire perforée ou Matricaire inodore est une espèce de plantes dicotylédones de la famille des Asteraceae, originaire d'Eurasie et d'Afrique du Nord.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tripleurospermum_inodorum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-178.jpg/248px-Tripleurospermum_inodorum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-178.jpg",
     "name": "Camomille sauvage"
   },
-  {
-    "description": "La camomille sauvage, Matricaire camomille, Petite Camomille, est une plante herbacée annuelle de la famille des Astéracées et du genre Matricaria.\nElle est parfois appelée Camomille allemande ou Camomille vraie ou Matricaire tronquée.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Matricaria_recutita_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-091.jpg/241px-Matricaria_recutita_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-091.jpg",
-    "name": "Camomille sauvage"
-  },
+ 
   {
     "description": "La campanule à larges feuilles est une plante herbacée du genre des Campanules et de la famille des Campanulacées.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Campanula_rapunculoides_aaa.jpg/240px-Campanula_rapunculoides_aaa.jpg",
@@ -1191,16 +1093,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Leucanthemopsis_alpina08.jpg/240px-Leucanthemopsis_alpina08.jpg",
     "name": "Chrysanthème des Alpes"
   },
-  {
-    "description": "Le Chrysanthème des moissons, marguerite dorée ou chrysanthème des blés (Glebionis segetum) est une plante annuelle, probablement d'origine méditerranéenne, naturalisée en Europe de Nord, de l'Ouest, en Chine, en Amérique du Nord et à l’île Maurice. \nIl appartient à la famille des Asteraceae et au genre Glebionis, proche du genre Chrysanthemum.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/20131013Glebionis_segetum1.jpg/320px-20131013Glebionis_segetum1.jpg",
-    "name": "Chrysanthème des blés"
-  },
-  {
-    "description": "Le Chrysanthème des moissons, marguerite dorée ou chrysanthème des blés (Glebionis segetum) est une plante annuelle, probablement d'origine méditerranéenne, naturalisée en Europe de Nord, de l'Ouest, en Chine, en Amérique du Nord et à l’île Maurice. \nIl appartient à la famille des Asteraceae et au genre Glebionis, proche du genre Chrysanthemum.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/20131013Glebionis_segetum1.jpg/320px-20131013Glebionis_segetum1.jpg",
-    "name": "Chrysanthème des moissons"
-  },
+ 
   {
     "description": "Tanacetum corymbosum, la Tanaisie en corymbe, est une plante herbacée vivace de la famille des Astéracées.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Strau%C3%9Fbl%C3%BCtige_Wucherblume_Tanacetum_corymbosum_Asteraceae_nahe_Dietfurt-003.jpg/240px-Strau%C3%9Fbl%C3%BCtige_Wucherblume_Tanacetum_corymbosum_Asteraceae_nahe_Dietfurt-003.jpg",
@@ -1393,21 +1286,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Illustration_Crataegus_laevigata1.jpg/208px-Illustration_Crataegus_laevigata1.jpg",
     "name": "Crataegus oxyacantha"
   },
-  {
-    "description": "La Crépide capillaire ou Crépis à tiges capillaires est une plante herbacée de la famille des Asteraceae.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Crepide_capillaire.JPG/177px-Crepide_capillaire.JPG",
-    "name": "Crépide capillaire"
-  },
-  {
-    "description": "La Crépide capillaire ou Crépis à tiges capillaires est une plante herbacée de la famille des Asteraceae.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Crepide_capillaire.JPG/177px-Crepide_capillaire.JPG",
-    "name": "Crépide verdâtre"
-  },
-  {
-    "description": "La Crépide capillaire ou Crépis à tiges capillaires est une plante herbacée de la famille des Asteraceae.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Crepide_capillaire.JPG/177px-Crepide_capillaire.JPG",
-    "name": "Crépis à petite tête"
-  },
+ 
   {
     "description": "La Crépide bisannuelle ou Crépis bisannuel est une espèce de plante herbacée de la famille des Asteraceae.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Crepis_biennis_Sturm54.jpg/204px-Crepis_biennis_Sturm54.jpg",
@@ -1417,16 +1296,6 @@
     "description": "Crepis foetida, la Crépide fétide est une plante herbacée de la famille des Astéracées.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Crepis_foetida_1.jpg/240px-Crepis_foetida_1.jpg",
     "name": "Crepis foetida"
-  },
-  {
-    "description": "La Crépide capillaire ou Crépis à tiges capillaires est une plante herbacée de la famille des Asteraceae.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Crepide_capillaire.JPG/177px-Crepide_capillaire.JPG",
-    "name": "Crépis glabre"
-  },
-  {
-    "description": "La Crépide capillaire ou Crépis à tiges capillaires est une plante herbacée de la famille des Asteraceae.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Crepide_capillaire.JPG/177px-Crepide_capillaire.JPG",
-    "name": "Crépis verdâtre"
   },
   {
     "description": "La Crépide capillaire ou Crépis à tiges capillaires est une plante herbacée de la famille des Asteraceae.",
@@ -1453,16 +1322,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Chrysosplenium_oppositifolium_040508.jpg/320px-Chrysosplenium_oppositifolium_040508.jpg",
     "name": "Cresson doré"
   },
-  {
-    "description": "Le Crocus de Naples, Crocus de printemps ou Crocus printanier (Crocus vernus) est une plante herbacée de la famille des Iridaceae.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Crocus_Bouba.jpg/320px-Crocus_Bouba.jpg",
-    "name": "Crocus albiflorus"
-  },
-  {
-    "description": "Le Crocus de Naples, Crocus de printemps ou Crocus printanier (Crocus vernus) est une plante herbacée de la famille des Iridaceae.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Crocus_Bouba.jpg/320px-Crocus_Bouba.jpg",
-    "name": "Crocus printanier"
-  },
+  
   {
     "description": "Silaum silaus, le Cumin des prés, est une plante herbacée de la famille des Apiaceae.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Illustration_Silaum_silaus0.jpg/194px-Illustration_Silaum_silaus0.jpg",
@@ -1848,11 +1708,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Falcaria_vulgaris_%28habitus%29_1.jpg/320px-Falcaria_vulgaris_%28habitus%29_1.jpg",
     "name": "Falcaire commune"
   },
-  {
-    "description": "La Callune est une espèce de chaméphytes ou nanophanérophytes sempervirents et le seul représentant du genre Calluna. C'est la fleur nationale de la Norvège.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Calluna_vulgaris_1.jpg/320px-Calluna_vulgaris_1.jpg",
-    "name": "Fausse bruyère"
-  },
+ 
   {
     "description": "La Matricaire maritime est une plante herbacée de la famille des Astéracées et du genre Matricaria. Elle est également considérée comme étant la sous-espèce type Tripleurospermum maritima subsp. maritima.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tripleurospermum_maritimum_habitus.jpeg/320px-Tripleurospermum_maritimum_habitus.jpeg",
@@ -3145,11 +3001,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kasztan_oo007.JPG/320px-Kasztan_oo007.JPG",
     "name": "Marronnier d'Inde"
   },
-  {
-    "description": "La camomille sauvage, Matricaire camomille, Petite Camomille, est une plante herbacée annuelle de la famille des Astéracées et du genre Matricaria.\nElle est parfois appelée Camomille allemande ou Camomille vraie ou Matricaire tronquée.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Matricaria_recutita_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-091.jpg/241px-Matricaria_recutita_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-091.jpg",
-    "name": "Matricaire camomille"
-  },
+ 
   {
     "description": "La Matricaire maritime est une plante herbacée de la famille des Astéracées et du genre Matricaria. Elle est également considérée comme étant la sous-espèce type Tripleurospermum maritima subsp. maritima.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tripleurospermum_maritimum_habitus.jpeg/320px-Tripleurospermum_maritimum_habitus.jpeg",
@@ -3175,11 +3027,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tripleurospermum_inodorum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-178.jpg/248px-Tripleurospermum_inodorum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-178.jpg",
     "name": "Matricaria perforata"
   },
-  {
-    "description": "La camomille sauvage, Matricaire camomille, Petite Camomille, est une plante herbacée annuelle de la famille des Astéracées et du genre Matricaria.\nElle est parfois appelée Camomille allemande ou Camomille vraie ou Matricaire tronquée.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Matricaria_recutita_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-091.jpg/241px-Matricaria_recutita_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-091.jpg",
-    "name": "Matricaria recutita"
-  },
+ 
   {
     "description": "La Mauve à feuilles rondes, Mauve commune ou Mauve oubliée est une plante herbacée de la famille des Malvacées.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mauve_%C3%A0_feuilles_rondes.JPG/320px-Mauve_%C3%A0_feuilles_rondes.JPG",
