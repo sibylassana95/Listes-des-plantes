@@ -5,15 +5,15 @@ python3.9 -m venv venv
 
 # activate the virtual environment
 source venv/bin/activate
+pip install --upgrade pip
 pip install --upgrade setuptools
 # install all deps in the venv
-pip install -r requirement.txt
+pip install -r requirements.txt
+pip install Django==5.0.1
 pip install django-cors-headers
-pip install whitenoise
 # collect static files using the Python interpreter from venv
-python3.9 manage.py migrate 
-python3.9 manage.py makemigrations
 python3.9 manage.py collectstatic 
+
 
 echo "BUILD END"
 
